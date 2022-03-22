@@ -1,0 +1,5234 @@
+[
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat is je favoriete traditie tijdens de feestdagen en waarom vind je dat zo leuk?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Herinner je je eerste huisdier? Hoe was die?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Als je voor de rest van je leven één outfit zou mogen dragen, wat zou het dan zijn?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Hoe heb je je allereerste crush verteld dat je verliefd op hem of haar was?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat was je minst favoriete vak op de middelbare school?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat is je favoriete tijd van de dag?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Als je een eigen schurk zou mogen ontwerpen, hoe zou deze eruit zien en wat zouden de krachten zijn?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Zou je een instrument willen leren bespelen? Zo ja, welk instrument dan?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Welke series volg je op dit moment?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat denken mensen altijd over je wat helemaal niet waar is?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Welke personages uit boeken, films of series denk je dat het meest op jou lijken?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Hoe zou je favoriete date eruit zien?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Als je iets aan de huidige politieke situatie in Nederland zou mogen veranderen, wat zou het dan zijn?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat is de meest belangrijke kwaliteit die je hebt en hoe heb je die gebruikt?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Als je nog maar één gerecht de rest van je leven zou mogen eten, wat zou het dan zijn?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Heb je slechte gewoontes die je wil afleren?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat doe je het liefst in je vrije tijd?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Hoeveel tijd alleen heb je nodig?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Hoe veel tijd wil je besteden aan schoonmaken?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Zou je een hulp in de huishouding inhuren?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat zou er gebeuren als een van jullie twee langdurig hulpbehoevend zou worden? Som 1 minuut lang de voordelen en nadelen op."
+    },
+    {
+        "Bron": 12,
+        "Genre": "info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Had je vaak ruzie met je broer(s) / zus(sen)?"
+    },
+    {
+        "Bron": 12,
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Hoe is relatie tussen jou en jouw ouders?"
+    },
+    {
+        "Bron": 12,
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Een vals dilemma: kies je voor je vader of je moeder?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Als je een dier zou moeten zijn, welk dier dan?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Waar heb je het hardst om gelachen de afgelopen week?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Heb je het afgelopen jaar nog in een zwembad geplast?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Vind je ook dat jouw scheten lekker ruiken?"
+    },
+    {
+        "Bron": 12,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Heb je je onderbroek wel eens langer dan 1 dag aangehad?"
+    },
+    {
+        "Bron": 12,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Vond je mij direct aardig?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat was het meest gênante moment dat jij in lachen uitbarstte terwijl dat echt niet kon?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Show me your coolest dansmove!"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Neem je stiekem spullen mee uit een hotelkamer?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Is er iemand die je perfect kunt nadoen?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Je hebt haast, zou je stiekem voordringen in de winkel?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Je staat in de file en je moet nodig plassen. Doe je het naast de auto?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Zou je ooit nephaar zetten? (waar dan ook)"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Waar moet je altijd weer om lachen?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wanneer heb je voor het laatst een duckface gemaakt voor je selfie?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Welke bijnaam had je vroeger? Wie noemde je zo?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Geef je snel ongevraagd advies?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Een vrouw is hoogzwanger en rookt een sigaret. Zeg je er wat van?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat vind je absoluut niet grappig?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Waar kan je jou ‘s nachts voor wakker maken?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Hoe lang kijk je in de spiegel als je alleen in de lift staat?"
+    },
+    {
+        "Bron": 12,
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Deel je een naam met iemand anders in de familie?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wanneer en waar ben je geboren?"
+    },
+    {
+        "Bron": 12,
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat is het geloof van je ouders en grootouders?"
+    },
+    {
+        "Bron": 12,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Ben je gelovig?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Waar stond het huis waar je bent geboren?"
+    },
+    {
+        "Bron": 12,
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat zijn de vroegste herinneringen aan je geboortehuis?"
+    },
+    {
+        "Bron": 12,
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Kan je me een verhaal of herinnering over je broers en zusters vertellen?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat is je unieke kwaliteit of talent?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Waar ben jij op dit moment bezorgd over?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Waar wil jij van af? En, hoe ziet je leven er dan uit?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Waar ben je echt bang voor? Hoe zou je die angst kunnen overwinnen?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat zou je doen met een miljoen euro?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat vind je echt sexy?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Maak het grappigste geluid die je kan bedenken."
+    },
+    {
+        "Bron": 1,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Ga samen op de grond zitten met de ruggen tegen elkaar. Sta samen op zonder je armen te gebruiken."
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat is de engste droom die je ooit had? Wat denk je dat het betekent?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wie heeft jou het allermeest gevormd? En hoe dan?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Heb je ooit iets gedaan waar je nu echt heel veel spijt van hebt? Kan je erover vertellen?"
+    },
+    {
+        "Bron": 12,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Op wie ben je wel eens heel erg jaloers geweest om welke reden?"
+    },
+    {
+        "Bron": 12,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Beschrijf een ervaring waarvan jij dacht: er is toch echt meer tussen hemel en aarde."
+    },
+    {
+        "Bron": 12,
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Noem iets waarin jij op een van je ouders lijkt."
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Hoe ziet je leven er over 20 jaar uit?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Neurie een liedje. Kan de ander raden om welke liedje het gaat?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Doe eens het spelletje: ik ga op reis en ik neem mee... Hoe ver komen jullie?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat is jouw grootste goede daad?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Noem drie karakterverschillen tussen mannen en vrouwen."
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Noem een leuke eigenschap van (een van) je medespelers."
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Beschrijf Nederland over 100 jaar."
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wie was je eerste grote vriend/in? Wat is er gebeurd met die relatie?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": "",
+        "Reeks": 0,
+        "Vraag": "Leg in een onherkenbare taal uit hoeveel zin jij hebt in een kus. "
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wie zou je nu €100.000 willen geven en waarom?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wanneer heb je voor het laats vreselijk gelachen en waarom?"
+    },
+    {
+        "Bron": 12,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Hoe lang kan je stil staan terwijl iemand je kietelt? Probeer het..."
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Geef een cijfer tussen 1 en 10 voor hoe gelukkig je denkt je partner is."
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Zet op volgorde van leuk tot minder leuk: avond op de bank, avontuur, etentje, cadeau, knuffelen."
+    },
+    {
+        "Bron": 12,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat zou op je grafsteen moeten staan?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Bedenk een leuk of goed voornemen voor je partner? Wat vind hij/zij ervan?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "fun",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Durf jij jezelf bloot te geven? Laat maar zien of horen..."
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Je moet €100.000 aan goede doelen geven, welke kies je?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Doe een wedstrijdje armpje drukken."
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Je mag 5 dingen meenemen naar een onbewoond eiland, wat neem je mee?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Je mag 10 mensen meenemen naar een wild onbewoond eiland, wie neem je mee en waarom?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Geef je partner een flink compliment"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Als je één dag in je leven over zou mogen doen, welke zou dat dan zijn?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Waarmee breng je liefst de nacht door en waarom: een koe, een slang, een grote spin, een muis of een lama?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Waar gruwel jij van?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 1,
+        "Reeks": 1,
+        "Vraag": "Met wie op deze wereld zou je weleens willen dineren?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 2,
+        "Reeks": 1,
+        "Vraag": "Zou je beroemd willen zijn? En waarmee dan?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 3,
+        "Reeks": 1,
+        "Vraag": "Oefen je weleens een telefoontje voordat je gaat bellen? Waarom?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 4,
+        "Reeks": 1,
+        "Vraag": "Wat betekent een ‘perfecte’ dag voor jou?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 5,
+        "Reeks": 1,
+        "Vraag": "Wanneer zong je voor het laatst toen je alleen was? En waar iemand bij was?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 6,
+        "Reeks": 1,
+        "Vraag": "Als je 90 jaar zou worden en je had de keuze om de laatste 60 jaar de geest óf het lichaam van een 30-jarige te hebben, wat zou je kiezen?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 7,
+        "Reeks": 1,
+        "Vraag": "Heb je een geheim idee van hoe je zult sterven?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 8,
+        "Reeks": 1,
+        "Vraag": "Noem drie dingen die jij en je partner gemeen lijken te hebben."
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 9,
+        "Reeks": 1,
+        "Vraag": "Waarvoor ben je het meest dankbaar in je leven?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 10,
+        "Reeks": 1,
+        "Vraag": "Wat had je graag anders gezien in je eigen opvoeding?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 11,
+        "Reeks": 1,
+        "Vraag": "Vertel je partner in vier minuten je levensverhaal (zo gedetailleerd mogelijk)."
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 12,
+        "Reeks": 1,
+        "Vraag": "Als je morgen wakker zou worden met één nieuwe kwaliteit of mogelijkheid, welke zou je dan kiezen?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 13,
+        "Reeks": 2,
+        "Vraag": "Als een kristallen bol je de waarheid over jezelf, je leven, de toekomst of iets anders zou laten zien, wat zou je dan willen weten?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 14,
+        "Reeks": 2,
+        "Vraag": "Is er iets waarvan je al heel lang droomt? En waarom heb je het nog niet gedaan?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 15,
+        "Reeks": 2,
+        "Vraag": "Wat is het grootste dat je bereikt hebt in je leven?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 16,
+        "Reeks": 2,
+        "Vraag": "Wat vind je het meest belangrijk in een vriendschap?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 17,
+        "Reeks": 2,
+        "Vraag": "Wat is je dierbaarste herinnering?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 18,
+        "Reeks": 2,
+        "Vraag": "Wat is je ergste herinnering?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 19,
+        "Reeks": 2,
+        "Vraag": "Als je wist dat je over een jaar zou overlijden, zou je dan iets veranderen aan je huidige leven? Waarom?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 20,
+        "Reeks": 2,
+        "Vraag": "Wat betekent vriendschap voor je?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 21,
+        "Reeks": 2,
+        "Vraag": "Welke rollen spelen liefde en genegenheid in je leven?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 22,
+        "Reeks": 2,
+        "Vraag": "Noem vijf positieve eigenschappen van je partner."
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 23,
+        "Reeks": 2,
+        "Vraag": "Hoe close en warm is je familie? Denk je dat jouw jeugd fijner was dan die van de meeste andere mensen?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 1,
+        "Nummer": 24,
+        "Reeks": 2,
+        "Vraag": "Hoe denk je over de relatie met je moeder?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 2,
+        "Nummer": 25,
+        "Reeks": 3,
+        "Vraag": "Maak elk drie ware ‘we’-statements. Bijvoorbeeld: ‘We zitten in deze kamer en we voelen…’"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 2,
+        "Nummer": 26,
+        "Reeks": 3,
+        "Vraag": "Maak deze zin af: ‘Ik wilde dat ik iemand had waarmee ik … kon delen.’"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 2,
+        "Nummer": 27,
+        "Reeks": 3,
+        "Vraag": "Deel iets dat belangrijk is om over jou te weten."
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 2,
+        "Nummer": 28,
+        "Reeks": 3,
+        "Vraag": "Vertel je partner wat je leuk vindt aan hem/haar. Wees heel eerlijk en zeg dingen die je waarschijnlijk niet zou zeggen tegen iemand die je net hebt ontmoet."
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 2,
+        "Nummer": 29,
+        "Reeks": 3,
+        "Vraag": "Deel het meest beschamende moment in je leven"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 2,
+        "Nummer": 30,
+        "Reeks": 3,
+        "Vraag": "Wat was de laatste keer dat je in het bijzijn van een ander huilde? En dat je huilde toen je alleen was?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 2,
+        "Nummer": 31,
+        "Reeks": 3,
+        "Vraag": "Vertel je partner iets wat je leuk aan hem/haar vindt."
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 2,
+        "Nummer": 32,
+        "Reeks": 3,
+        "Vraag": "Wat is te serieus om grappen over te maken?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 2,
+        "Nummer": 33,
+        "Reeks": 3,
+        "Vraag": "Als je vanavond zou sterven: waarvan zou je het meest spijt hebben dat je het niemand hebt verteld? Waarom heb je het nog niet verteld?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 2,
+        "Nummer": 34,
+        "Reeks": 3,
+        "Vraag": "Je huis, met alles wat je bezit, staat in brand. Nadat je geliefden en huisdieren gered zijn, heb je nog tijd om één ding te redden. Wat zou het zijn? Waarom?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 2,
+        "Nummer": 35,
+        "Reeks": 3,
+        "Vraag": "Van wie van al je familieleden zou je het het ergst vinden als hij of zij sterft? Waarom?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 2,
+        "Nummer": 36,
+        "Reeks": 3,
+        "Vraag": "Vertel een persoonlijk probleem en vraag je partner: hoe zou jij hier mee omgaan?"
+    },
+    {
+        "Bron": 3,
+        "Genre": "stel",
+        "Niveau": 3,
+        "Nummer": 37,
+        "Reeks": 4,
+        "Vraag": "Kijk elkaar vier minuten onafgebroken in de ogen zonder iets te zeggen."
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Hoe voel je je op dit moment?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat is je dierbaarste bezit?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Welk talent zou je graag willen hebben?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Aan welke eigenschappen heb je een hekel?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Welke karaktertrek zou je willen hebben?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": "",
+        "Reeks": 0,
+        "Vraag": "Wat vind je de meest overgewaardeerde deugd?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": "",
+        "Reeks": 0,
+        "Vraag": "Welke fout kun je het makkelijkst vergeven?"
+    },
+    {
+        "Bron": 12,
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Op welk familie lid lijk je het meest"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat denk jij, zou ik aan body building moeten doen?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Hebt je ooit last gehad van liefdesverdriet"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Aan welke bezitting hecht je heel veel waarde?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Iedereen heeft wel een zwakke plek. Wat is die van jou?"
+    },
+    {
+        "Bron": 12,
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Op een schaal van 1 tot 5, hoe sterk is/was je band met je vader?"
+    },
+    {
+        "Bron": 12,
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Op een schaal van 1 tot 5, hoe sterk is je band met je vader?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Had jij een lievelingsknuffel? Hoe zag die eruit?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Schets eens een situatie waarin je voor een ander opkwam."
+    },
+    {
+        "Bron": 12,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Doe een competitie: wie kan de langste tegen kietelen?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Opdracht: wie kan de langste op één been staan terwijl de ander(en) hem probeert om te krijgen zonder hem/haar aan te raken."
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Als je iets zou mogen overdoen, wat zou dat dan zijn?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat was de stomste wat je al gedaan hebt op de fiets of in de auto?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Hebt je al eens in je neus gepeuterd toen je dacht niemand keek, maar toen zag keek iemand..."
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wie was je favoriete onderwijzer en waarom?"
+    },
+    {
+        "Bron": 12,
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Hebt je al een vriendschap verbroken en waarom?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat is de vieste wat je al gegeten hebt?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "Info ",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Ben je goed in boos worden?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Hoe zie je graag je leven over 10 jaar"
+    },
+    {
+        "Bron": 12,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Hoe denk jij te zullen sterven?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Noem de hoogtepunt en dieptepunt van je leven tot nu toe?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Welke eigenschappen hielp je tot nu vooruit en wat was juist een hindernis?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat is de grootste doel in je leven? Hebt je al progressie hierin gemaakt?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wie ben je echt? Wie is achter de masker?"
+    },
+    {
+        "Bron": 12,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Hoe zou je reageren op 100% bewijs dat God wel of niet bestaat?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Is de mens van nature goed of slecht?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "IS de mens beter in scheppen of afbreken?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat vind je de beste en de slechtste eigenschap van de mensheid?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Bigbang of toch een schepper?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat maakt dat mensen in komplot denken geloven?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat is iets vreselijks wat normaal geworden is voor de meeste mensen?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat vertelt de meeste over de mens: biologie, filsofie, psychologie of theologie?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Homoseksualiteit: nature (aangeboren) of nurture (aangeleerd)?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat doe je als je één keer op een knop moet drukken en je ontvangt 20miljard, maar er sterven wel 5 mensen?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat is een wonder dat elke dag opnieuw gebeurt?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Subsidie voor kunst? Wijs of weggegooide geld?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat voegt kunst toe aan ons cultuur en wereld?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Schets een dag in wereld zoals jij die wil."
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Persvrijheid, hoe ver mag het gaan? "
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat denk je van de stelling: de mens heeft de recht zelf te bepalen wanneer hij/zij wil sterven."
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Een relatie tussen twee mensen van totaal verschillende culturen: wijs? uitdagend? dwaas? En waarom zeg je het?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat geeft je op dit moment hoop voor de toekomst van deze wereld?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Is het de taak van de overheid om regels te stellen over hoe we wel of niet moeten leven?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Om een ernstig zieke persoon in leven te houden kost miljoenen, het is geld die ook naar de armen kunnen gaan. Waar ligt de grens van wat een leven mag kosten?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Wat is het doel van het leven?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Als je nu sterft, wie ken je nog over 100 jaar?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Als je te horen krijjg dat je morgen sterf, zou je spijt hebben van dingen? Waarvan?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Waarom zou je moeten sterven om het leven van een onbekende te redden?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Is emoties nodig voor de mensheid om te overleven? Waarom wel of niet?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Heeft elk willekeurig mens recht op geluk?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Welke harde waarheden negeer je liever?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Hebben wij een vrije wil of is het slechts een illusie?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Zegt dromen iets over je?"
+    },
+    {
+        "Bron": 1,
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": 0,
+        "Vraag": "Waar is jouw identiteit op gebasseerd?"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik vind het belangrijk dat ik complimentjes krijg van anderen "
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik vind het leuk om samen iets te ondernemen"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik vind het leuk om cadeautjes uit te zoeken"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik word blij als ik thuiskom en het huis heel netjes gemaakt is"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik hou ervan iemand te knuffelen"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik vind het fijn om bemoedigd te worden"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Het maakt me niet uit wat we doen als ik het maar samen met iemand kan doen"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Die mooie kaart die iemand me stuurde heb ik nu nog steeds"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik vind het leuk om de ander te verwennen"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik raak graag mensen aan"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Als iemand zegt dat ik iets niet kan, dan kan ik dat waarschijnlijk ook niet "
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik wil contact hebben met de ander als we praten, zonder dat bijv. de tv aanstaat"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik word graag verrast"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik vind het leuk om anderen te helpen"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik word graag gemasseerd"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Als iemand om wie ik geef iets heel onaardigs zegt, dan raak ik van slag"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik wil graag weten wat de ander bezighoudt"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik vond het heel erg dat iemand mijn verjaardag vergeten was"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik word blij als iemand mij uit zichzelf helpt"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zonder lichamelijke aandacht voel ik mij afgewezen"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Als iemand om wie ik geef iets heel liefs zegt, dan voel ik mij helemaal gelukkig"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Als we ruzie hebben wil ik het samen uitpraten"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik hou ervan cadeautjes te geven"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik wil niet anderen eraan moeten herinneren hun taak te doen "
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik vind het fijn om dicht naast elkaar op de bank te zitten"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik voel een diepe verbondenheid met mensen met wie ik echt kan praten"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik vind het belangrijk om samen te genieten"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Een cadeau hoeft niet veel geld te kosten, als het maar uit liefde gegeven wordt"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik ben zeer behulpzaam en doe dat uit liefde"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik vind seks met mijn (toekomstige) partner heel belangrijk"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik vind het belangrijk dat iemand luistert naar wat ik wil zeggen"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik vind het belangrijk om echt tijd te hebben voor elkaar"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Als ik een heel mooi, duur cadeau krijg, voel ik mij heel erg geliefd"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik wil niet alles alleen in het huishouden doen"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik loop graag hand in hand met mijn partner"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik weet niet wat ik moet zeggen als een ander mij aanvalt met woorden"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik vind het vervelend als we in ons samenzijn worden gestoord"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik vind het belangrijk dat iemand tijd voor mij vrijmaakt en zichzelf daarmee aan mij geeft"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik doe graag wat er van mij gevraagd wordt"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Als ik thuiskom wil ik het liefst eerst een knuffel en dan pas vertellen over de dag"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Als ik ruzie heb met iemand en die ander zwijgt, voel ik mij volkomen eenzaam"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik geniet ervan om nieuwe dingen te ondernemen met anderen"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ook van een zelfgemaakt cadeautje word ik blij"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik wil graag dat een ander me helpt als dat nodig is"
+    },
+    {
+        "Bron": null,
+        "Genre": "liefdestalen",
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Voor mij is vrijen het toppunt van intimiteit"
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Doe een bekende reclame na"
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Beeld uit hoe je belt"
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Doe een gorilla na voor 30 seconde"
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Doe iemand uit de vrienden/familie groep na tot dat ze het raden"
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Jij bent voor 2 minuten de stoel in een auto voor de persoon die naast je zit"
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wie kan de lelijkste selfie maken?"
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Maak een selfie met je vinger in je neus."
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Trek een gek gezicht."
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Maak de ander op met een blinddoek."
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ga midden op de straat naar een stokje staren voor 2 minuten lang maar zonder te lachen."
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zet de koude douche aan en hou je hoofd daar 20 seconde onder."
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zeg in 20 seconde het alfabet achterstevoren."
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Eet een beschuitje en fluit daarna ook."
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wie kan het snelst 5 koprollen doen?"
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Pel een banaan met je voeten."
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ga dansen op een muziek naar keuze."
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Loop de moonwalk door de kamer."
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Doe de worm op de grond."
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Geef een concert met een luchtgitaar."
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vertel een verhaal waarbij er een aantal verplicht woorden in moeten, bijvoorbeeld: Toilet, Afghanistan, Ipod, Letter, Woestijn, Snaar, Stekker, Boom, Vanille."
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Doe de vertrouwenstest, kan je je laten vallen in de armen van een ander?"
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Doe zo veel mogelijk sokken aan."
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Geef elkaar een bijnaam."
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Maak een wandeling samen."
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ga eens samen naar de museum."
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Bouw een puzzel."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Waar ben jij trots op? Noem eens 10 dingen van het afgelopen jaar waar je trots op bent."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is iets wat je niet zo snel zou vertellen? Vul in: ‘Als je mij echt goed zou kennen, dan zou je over mij weten dat…'"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul in: ‘Als ik nu echt helemaal eerlijk zou zijn, dan zou ik zeggen dat…' Dit is een vraag voor ‘radicale eerlijkheid'. Wat zijn de dingen die je normaal gesproken niet zou zeggen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Met wat voor kinderen speelde je toen je opgroeide?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is het verschil tussen je ideale zelf en je echte zelf?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is nou het tofste onderwerp waarover je graag praat? Of iets wat je echt wilt vertellen aan mensen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat gaat er goed (in je leven)? Waar voel je je (het meest) dankbaar voor in je leven? Welke vijf dingen? Welke personen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Stel de wondervraag. Bijvoorbeeld: ‘Maar dus, stel dat er een tovenaar hier stond en die kon je in alles veranderen wat je zou willen, wat zou je doen? Wat, wie, waar, waarom?'"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe zie je je ideale leven voor je? Naar wat voor ideale inrichting van je werkdagen en weekenden ben je aan het toewerken? "
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat vind je het meest belangrijk in jouw leven? Met andere woorden: wat zijn jouw waarden? "
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is een gekke eigenschap van je? Wat is je meest gekke eigenschap?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat vertel je normaal nooit aan vreemde mensen over jezelf?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe is je persoonlijkheid? Is die netjes of slordig? Stel dat je je koffer inpakt voor een fijne vakantie. Rol, vouw of gooi je alles erin? "
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wie is je favoriete auteur/acteur/muzikant/atleet?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vraag wat de ander leuk vindt aan zijn/haar hobby. Probeer dat vervolgens terug te leiden naar de persoonlijkheid of naar de emoties van de ander."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zou je zonder het internet kunnen leven?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is jouw ultieme vakantie? Is het meer actief, ontspannen, leerzaam of sociaal?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Heb je ooit iets gebroken? En hoe zit het met regels?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ben jij een kattenmens of een hondenmens? Of gaat je voorkeur ernaar uit om een drakentrainer te worden?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ben je blij met de persoon die je aan het worden bent?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Is het glas halfvol of halfleeg?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Heb je slechte gewoonten?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ben je iets aan het verbergen voor iemand?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Kun je goed met geld omgaan? Op een verantwoordelijke manier?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ben je artistiek en creatief?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Heb je ooit gespiekt in een toets?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ben je goed in nieuwe mensen ontmoeten en nieuwe vrienden maken?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Voordat je een telefoontje pleegt, repeteer je wat je gaat zeggen? Waarom?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zijn de drie dingen waarmee je niet zonder kunt leven?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Als je iets kon veranderen aan de manier waarop je opgevoed bent, wat zou dat dan zijn?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zijn je geheime talenten?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zijn je talenten/specialiteiten die jou uniek maken?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zijn je beste en minst goede eigenschappen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Als je morgen wakker kon worden en er opeens een extra eigenschap of vaardigheid bij had gekregen, wat zou dat dan zijn?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat brengt jou het bed uit?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Waar sta jij voor?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Zeg de naam van je partner binnen 5 seconden achterstevoor, de tijd start nu!"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is jouw lievelingsplek en wat is daar te vinden?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Waarom is het een cadeau om jou als vriend(in) te hebben?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Welke opmerking die je van een ander gehoord hebt, is je altijd bijgebleven en zal je nog lang bijblijven?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Waar denk je nu aan?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe gaat het met je nu?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat bewonder je het meest aan jezelf?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is je grootste onzekerheid?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wanneer werd je voor het laatst afgewezen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zijn jouw imperfecties?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Waar schaam je je voor?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zit je dwars? Waar zit je momenteel mee?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zijn je zwakten?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Heb je slechte gewoonten?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat stel je steeds maar uit, waarvan je eigenlijk weet dat het belangrijk is om te veranderen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zijn goede eigenschappen en kwaliteiten van je?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is dé eigenschap waarover mensen je de meeste complimenten geven?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zijn 3 dingen over jou waarvan je niet zou willen dat ik ze wist?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ben je ook bang voor spinnen? Wat is je grootste angst, behalve spinnen dan?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat levert je (het meeste) stress op? Als een grote zorg van jou weggenomen kon worden, welke zou dat dan zijn?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is je meest favoriete deel van de dag?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is het meest gevaarlijke dat je ooit hebt gedaan?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Waarom denk je dat je zo mooi bent?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat was het engste moment in je leven?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Heb je moeilijke tijden moeten doorstaan in je leven? Kan je daar meer over vertellen..."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Heb je ooit (mentale) ziektes moeten doorstaan?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is de mooiste en/of belangrijkste les die je in je leven geleerd hebt?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zijn de vragen die jou de laatste tijd het meest bezighouden?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Welke gedachten houden je de laatste tijd bezig?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zijn de emoties die je de laatste tijd het meest voelt?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Doe "
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Denk je dat de tijd sneller gaat als je ouder wordt?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe oud voel je je op dit moment?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is iets van jezelf wat je helemaal geweldig vindt en wat is iets waarvan je wilde dat het anders was? Welk lichaamsdeel van jezelf zou je veranderen als je kon?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zou je willen veranderen in de dagelijkse dingen die je doet en ervaart?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Als je slechts één ding zou kunnen veranderen aan je leven, wat zou dat dan zijn?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoeveel vind je jezelf waard?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Als je ergens naartoe kon gaan waar niemand wist wie je was, en waar alles wat je deed niet bekend kon worden bij mensen die je kent, wat zou je dan allemaal willen doen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe kijk jij tegen de wereld aan?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe kan er vrede komen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe krijgen we mensen dichter bij elkaar?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat ga jij dit jaar creëren?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Maak de zin af: de wereld zou veel gaver zijn als…"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zou je me ook leuk vinden als ik geen armen zou hebben?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Dieren kunnen opeens spreken, wat zijn de eerste woorden van je dier?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Als je een dier zou kunnen zijn, welke zou je dan zijn? Kan je de dier nadoen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat was de beste tijd van je leven?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Als je enkel 10 dingen kon bezitten, wat zouden ze zijn?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Waar geloof je in? Waarvan ben je overtuigd? Wat weet je absoluut zeker?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Geloof je dat mensen geluk kunnen creëren of dat ze het toevallig krijgen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zou je doen als je een onzichtbaarheidsdeken kon dragen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Als je morgen een paar miljoen in de loterij zou winnen, hoe zou je het uitgeven?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Wat is je leukste sinterklaas herinnering?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zijn er buitenaardse wezens in delen van het universum?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is liefde?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Geloof je dat er voor iedere persoon een soulmate bestaat?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Als je 3 wensen kon krijgen, wat zouden ze zijn en waarom?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zie je jezelf als een gelukkig persoon?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ben je tevreden met het leven dat je hebt? Waarom?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Welke alledaagse dingen maken je gelukkig?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Welke dingetjes kunnen we de komende week doen om blijer te zijn?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Wat is een (of het meest) belangrijke gebeurtenis in je leven?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Heb je ooit gewenst dat je als het tegenovergestelde geslacht geboren zou zijn? Waarom?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Als je nog maar 1 ding voor de rest van je leven kon doen, wat zou dat zijn?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zijn de drie dingen waarmee je niet zonder kunt leven?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Als je wist dat je over een jaar opeens zou sterven, zou je dan een verandering maken in de manier waarop je nu leeft? Waarom?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Welke rol speelt liefde in je leven?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat baart mij de meeste zorgen over de toekomst?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Houd ik me vast aan iets wat ik moet loslaten?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is het belangrijkste in mijn leven?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat doe ik er toe?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Als ik een advies moest inbrengen in de geest van een pasgeboren baby, welk advies zou ik dan geven?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Welke kleine daad van vriendelijkheid heb jij ooit laten zien die je nooit zal vergeten?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Is het belangrijker om lief te hebben of geliefd te worden?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoeveel van mijn vrienden zou ik met mijn leven vertrouwen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wie heeft de grootste invloed op mijn leven gehad?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zou je de wet overtreden om een geliefde te redden?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zou je stelen om een hongerend kind te voeden?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat wens je me toe?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Hebt je leuke herinneringen aan momenten met je opa en oma?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is nog erger: falen of nooit proberen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is het enige wat ik wil dat anderen zich aan het eind van mijn leven over mij herinneren?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Maakt het je uit wat anderen over jou denken?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: mijn favoriete manier om de dag door te brengen is…."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: als ik met mijn tiener-zelf kon praten, is het enige wat ik zou zeggen…."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: de twee momenten die ik nooit zal vergeten in mijn leven zijn… (beschrijf ze in detail)"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Noem 10 dingen die je doen glimlachen."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Heb je weleens pakslaag gekregen van je ouders? Weet je nog waarom?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: de woorden waar ik graag naar zou willen leven zijn…."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: ik kan me niet voorstellen dat ik zonder…."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Hebt je als kind kattekwaad uitgehaald?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Kan je vijf mensen noemen die je echt steunen en die je echt kunt vertrouwen? Zou je het aan hun willen vertellen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe ziet onvoorwaardelijke liefde er voor jou uit?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zou je doen als je onvoorwaardelijk van jezelf hield?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zou je willen dat anderen over jou wisten?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: als mijn lichaam kon praten, zou het zeggen…"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Noem een medelevende manier waarop je onlangs een vriend hebt gesteund. Hoe zou je hetzelfde kunt doen voor jezelf?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat vind je leuk aan het leven?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat brengt altijd tranen in je ogen? "
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Vertel over een moment waarin werk (betaald of onbetaald) voor jou echt bevredigend aanvoelde. Wat zegt het over jou?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vertel over je eerste liefde – of het nu gaat om een persoon, plaats of ding."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Beschrijf jezelf met 10 woorden."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat verrast je het meest over je leven of het leven in het algemeen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat kun je leren van je grootste fouten?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: ik voel me het meest energiek wanneer…"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Noem drie vragen waarop je dringend antwoorden nodig hebt."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Noem drie dingen die je inspireert (bijv. boeken, websites, citaten, mensen, schilderijen, natuur...)"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Zou je iets nieuws willen leren? Wat dan?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: ik voel me het gelukkigst in mijn vel wanneer…"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Kan je vijf dingen noemen die je doet maar eigenlijk niet wil doen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Wat was de beste keuze van je leven?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Waar word je heel enthousiast van?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Waar gingen jullie als familie met vakantie?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is de reden dat je opstaat?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Welke familie patronen zou je willen doorbreken?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 3,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Wie had welke rol in je gezin?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Een vals dilemma: avondje netflix of schoonouders?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Weet jij wat je uit je leven wil halen? "
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Noem drie dingen die je in je vader respecteert."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zijn de 3 meest belangrijke dingen in je leven?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat houdt jou op de been in moeilijke tijden?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Welke plek op de wereld zou je willen bezoeken?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe ziet jouw bucket list eruit?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe zou je droomhuis eruit zien?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Armoede in Afrika, eigen schuld of de koloniale verleden? Verduidelijk..."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Noem drie dingen die je in je moeder respecteert."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is het grootste wat je in je leven hebt bereikt?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Waar word je blij van?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Waar ben je obsessief over?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zijn de voor en nadelen van de cultuur van herkomst?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Als je dagdroomt, wat zie je jezelf dan doen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zijn in jullie familie, mannen of vrouwen de baas?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat betekent familie voor jou?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe zie je een ideaal gezinsleven voor je? Hoe zijn de rollen en taken verdeeld?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zou je ooit kinderen willen? Hoeveel? Waarom? Wanneer? Hoe zou je ze opvoeden? Met welke waarden?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat voor rol zouden spirituele activiteiten in je gezinsleven spelen? Zou je jouw huis openstellen om anderen uit te nodigen voor spirituele activiteiten?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe rijk zou je willen worden? En hoe ziet je leven er dan uit? "
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zou je doen als je niet aan tijd of geld hoefde te denken?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zou je doen als je niet bang zou zijn?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is de beslissing die je aan het ontwijken of uitstellen bent?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat ben je nu aan het tolereren wat eigenlijk moet veranderen zodat je vooruit kunt gaan?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Aan welke levensstandaard ben je gewend?"
+    },
+    {
+        "Bron": "",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Zet in volgorde van belangrijkheid: familie, gezin, vrienden, partner, kinderen."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is in jouw leven op dit moment jouw energie en motivatie aan het leegzuigen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe lieten je ouders merken dat ze van je hielden?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Waren er in je jeugd gezinsproblemen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is je vuistregel voor succes?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe kijk jij tegen trouwen aan? En vreemdgaan aan?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Wie nam in je gezin van herkomst de beslissingen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zou je tegen iemand zeggen die probeert zelfmoord te plegen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat doe je als je een moeilijke dag hebt?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Noem eens drie sterke punten van mij?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat voor vibes pik je van mij op?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat heeft jouw plek in de kinderrij betekend?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Is er iemand in je gezin van herkomst om wie jij je zorgen maakt? Waarom?"
+    },
+    {
+        "Bron": "",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": " Wat zijn de voor en nadelen van leven in Nederland?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wanneer was het moeilijkste moment waarin je probeerde niet te lachen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is het meest gênante wat je ooit hebt gedaan?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is het meest gênante wat je ooit hebt gezien?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is de ergste ervaring in een restaurant die je hebt gehad?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat kan jou echt ontroeren?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Welke muziek raakte je hard?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat maakte je aan het huilen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wanneer voelde je een tintelend gevoel van geluk door je lichaam gieren?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wanneer genoot je van rust en stilte?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat betekent je naam?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat vinden je vrienden van mij?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Kun je weten dat iemand tegen je liegt?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Heb je ooit wraak genomen op iemand?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ben je er goed in om een lach op het gezicht van andere mensen te toveren?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ben je ooit opgekomen voor iemand die je nauwelijks kende?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe ga je om met onenigheden en conflicten?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe uit je je emoties?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat was de laatste keer dat je huilde?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Raak je eenvoudig gestrest? En wat maakt je dan gestrest?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat irriteert je makkelijk? Wie irriteert je makkelijk?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Tegen wat voor mensen ben je allergisch? En met wat voor mensen juist niet?"
+    },
+    {
+        "Bron": "",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Hebt je vijanden in je leven?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 3,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Je schoonzus/schoonbroer die niet met geld kan omgaan heeft schulden en vraagt hulp met schulden. Wat doe je?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe was je als kind?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe zou je jezelf beschrijven toen je 5-12 jaar oud was?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wie was je grootste idool als kind?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat wilde je later worden als kind?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat leerde je over mannen/vrouwen toen je opgroeide?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": "",
+        "Vraag": "Wat zijn 3 of 4 van je eerste jeugdherinneringen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is je meest gekoesterde herinnering?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Hoe ging je ouders met spanning om? Wat heeft dat jouw gebracht?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Heb je ooit een denkbeeldige vriend gehad als kind?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Heb je broers en zussen? Hoeveel? Hoe heet ze? Hoe oud zijn ze? Wat doen ze? Lijken jullie op elkaar?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 3,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Waarin wil je anders zijn dan je ouders?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Wat vind je partner van je ouders?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Welke rol speelde geld in het leven van je ouders?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Hoe was de relatie tussen je vader en moeder?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Wanneer was je voor het eerst echt  teleurgesteld in (een van) je ouders?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Beschrijf je relatie met je ouders?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat betekent een goede vriend voor jou?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Beschrijf je beste vriend."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ben je een goede vriend?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Mis je op dit moment iemand heel erg? Wie is dat?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat vind je leuk om met vrienden in je vrije tijd te doen?"
+    },
+    {
+        "Bron": "",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Iemand voelt zich altijd heel verantwoordelijk. Hoe kan die anders ermee leren omgaan?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Waar hecht je de meeste waarde aan in vriendschap?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 3,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Hoe kan je kinderen opgroeien zonder dat ze jouw problemen overnemen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe warm en close is je familie? Was je jeugd gelukkiger dan de jeugd van de meeste andere mensen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is de beste en slechtste eigenschap van je partner? "
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is je favoriete ding of activiteit in de wereld?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is je favoriete film en waarom?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Is er een boek of film die een gigantische impact op je heeft gemaakt?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Lees je? Welke boeken zou je naar een verlaten eiland brengen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe ziet je typische zaterdagavond eruit?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 3,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Hoe gingen je ouders om met verdriet en rouw? Hebt jij het overgenomen? Waarom wel of niet?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Waar houd je van om te doen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Als je alleen maar 1 gerecht kon hebben voor de rest van je leven, welke zou dat dan zijn?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is je favoriete snoep?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Heb je ooit iets gejat van een winkel of van iemand?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zijn je favoriete en minst favoriete gerechten?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Als je een stukje in je dagboek zou schrijven over onze eerste ontmoeting, wat zou je dan schrijven?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Doe je gekke dansjes als niemand kijkt?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Hoe laat zou een kind van 13 naar bed moeten? En wat doe je als hij/zij het niet wil?"
+    },
+    {
+        "Bron": "",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Welke spelletjes deed je vroeger met je broers/zussen/vrienden?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ben je goed in computerspellen?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Je kunt kiezen: een gezin met 5 jongens of een gezin met 5 meiden? Wat kies je? Waarom?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Kun je accenten faken?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe ruik ik?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Lach je nog steeds met je tanden als er een foto van je gemaakt wordt?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Heb je een steeds terugkomende droom? Wat gebeurt daarin?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Zijn je ouders gescheiden? Zo ja, wanneer?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Onderschatten of overschatten veel mensen je?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ben je ooit verslaafd geweest aan een spel? Welke?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Geniet je ervan om in de natuur te zijn?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Gil je in rollercoasters?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Kun je anderen goed imiteren? Doe het dan..."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Houd je een dagboek bij of zoiets?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vertel me iets interessants over jezelf."
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Vertrouw je ouders je?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Hoeveel regels waren er vroeger bij je thuis? IOf als je nog thuis bent: hoeveel regels zijn er? Wat vind je ervan?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wie zou de eerste move moeten maken: de man of de vrouw?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zijn in jouw beleving de meest belangrijke eigenschappen in een man?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 3,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Wat wil jij absoluut anders doen dan je schoonouders?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Stel je krijg kinders: hoeveel mogen de kinderen socialmedia gebruiken?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is jouw invulling van een romantische avond?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe uit je jouw liefde en affectie?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Stel je krijg een wat corpulente kind: hoe ga je ermee om?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zou je liever in een wereld leven waar gigantische, vriendelijke gummy-beren rondlopen of in een wereld waar hoverboards overal beschikbaar zijn in winkels?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Heb je liever benen zo lang als je vingers, of vingers zo lang als je benen?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Zou je je kind van 15 toelaat om een tatoeage te krijgen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zou je liever het internet opgeven of je vrienden en familie?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zou je liever iedere keer dat je niest, van geslacht veranderen, of niet het verschil kunnen zien tussen een muffin en een baby?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Welke slechte communicatiepatronen zijn er in je familie?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zou je liever het medicijn voor kanker ontdekken of de honger op aarde eindigen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zou je liever gelukkig zijn in een ongelukkige wereld of ongelukkig in een gelukkige wereld?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 2,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Je hebt iets heel stoms gedaan, wie zou je het als eerst vertellen: je vader of moeder?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zou je liever de vaardigheid hebben om iedere taal vloeiend te spreken, of om ieder instrument meesterlijk te spelen?"
+    },
+    {
+        "Bron": "",
+        "Genre": "familie",
+        "Niveau": 3,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Je bent zwanger en je kind heeft down, wat doet het met je? Is abortus een optie? Waarom wel en waarom niet?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zou je liever hebben dat iemand je constant zou porren voor de rest van je leven of dat je nooit meer door niemand aangeraakt wordt?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zou je liever de meest slimme of de meest domme persoon op aarde zijn? In beide scenario's behoud je hetzelfde niveau van intelligentie dat je nu hebt."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zou je liever een magische hoed hebben waarmee je iedereen kunt aantrekken met de woorden ‘mijn heer/mijn vrouw', of zou je liever de vaardigheid hebben om 5x zo snel te lopen wanneer je je armen achter je rug uitrekt en vliegtuiggeluiden maakt?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zou je liever de mogelijkheid krijgen om iedere dag 60 minuten terug te kunnen spoelen, of om iedere dag 60 minuten de tijd te kunnen bevriezen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zou je liever 100.000 ontvangen en je knapheid verdubbeld krijgen, of 1o miljoen ontvangen en je knapheid gehalveerd krijgen?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zou je liever 500,000 winnen of zou je liever een miljard winnen maar dan kun je nooit meer het internet gebruiken?"
+    },
+    {
+        "Bron": "",
+        "Genre": "leven_delen",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Hoe vaak zou de wc eigenlijk schoon gemaakt moeten worden?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat kies je? Je lichaamshuid is van krokettenkorst – of – er loopt altijd een dwerg naast je die zegt dat je liegt."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat kies je? Niemand lacht ooit om wat je zegt – of – je moet altijd lachen als iemand huilt."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat kies je? Iedereen hoort wat je denkt – of – jij hoort wat iedereen denkt"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Je kunt alle instrumenten bespelen – of – je kunt alle talen spreken."
+    },
+    {
+        "Bron": "",
+        "Genre": "leven_delen",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Wat is beter: een relatie hebben of single zijn?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": "",
+        "Reeks": null,
+        "Vraag": "Wat kies je? Overal in huis hangen camera’s en de livestream staat op nu.nl – of – je ontwikkelt een allergie voor je vrienden en familie."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat kies je? Je woont op de 94e verdieping van een flat zonder lift – of – al je digitale communicatie moet via handgeschreven brief."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat kies je? Of de liefde van je leven vinden en geen vrienden hebben – of heel veel vrienden hebben maar nooit verliefd worden."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vertel me een geheim."
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "Info",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is de laatste keer dat je je jaloers voelde?"
+    },
+    {
+        "Bron": "https://hetnlpcollege.nl/diepe-originele-date-vragen-leren-kennen/",
+        "Genre": "fun",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoeveel vriendjes/vriendinnetjes heb je gehad?"
+    },
+    {
+        "Bron": "",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": "",
+        "Vraag": "Zou je me willen kussen?"
+    },
+    {
+        "Bron": "",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is de echte reden dat jij een goede daad verricht?"
+    },
+    {
+        "Bron": "",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zijn intelligentie en persoonlijkheidskenmerken aangeboren, of worden ze ontwikkeld door omgevingsinvloeden in onze adolescentie? Wetenschappers zijn het erover eens dat het een combinatie van beide is. Maar welke factor heeft volgens jou een grotere impact op onze persoonlijkheidsontwikkeling?"
+    },
+    {
+        "Bron": "",
+        "Genre": "leven_delen",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Werk je om te leven of leef je om te werken?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Kind zijn in de 21ste eeuw - Was alles in het verleden beter?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ben je beter in haten of liefhebben?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Tot de dood ons scheidt - bestaat eeuwige liefde?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zou je liever al je herinneringen verliezen of liever nooit meer nieuwe herinneringen kunnen maken?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Maakt sociale media ons ziek?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe meet je succes?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Is euthanasie moreel toelaatbaar?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat is het grootste probleem van de mensheid?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Leven we in een simulatie? (filmtip: The Matrix)"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat vindt u van een een- of twee-kindbeleid om overbevolking tegen te gaan?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Moet particulier wapenbezit worden verboden?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Is kunstmatige intelligentie een bedreiging voor de mensheid?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zijn mannen en vrouwen nog gelijk?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Waarom zijn mensen racistisch?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Pro-Life of Pro-Choice - Is abortus moreel gerechtvaardigd?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zou je willen veranderen aan het schoolsysteem?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zou je onsterfelijk willen zijn als je kon?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Is een dierlijk leven evenveel waard als een mensenleven? Waarom wel? Waarom niet?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat motiveert je vooral in jouw (toekomstige) werk? Het geld of het werk zelf?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Is patriottisme goed of gevaarlijk?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Is het oké om soms te liegen?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat vindt je van het universele basisinkomen?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Waarom zijn mensen jaloers?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zullen we de opwarming van de aarde op tijd kunnen stoppen?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Is de doodstraf moreel gerechtvaardigd? In 93 landen over de hele wereld is er nog steeds een wettelijk gereguleerde doodstraf (vanaf 2019). "
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zou een wereld zonder grenzen mogelijk zijn?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Religie gaat over geloof, en wetenschap gaat over feiten. Zijn wetenschap en religie überhaupt compatibel?"
+    },
+    {
+        "Bron": "https://psycatgames.com/nl/magazine/conversation-starters/philosophical-questions/",
+        "Genre": "leven_delen",
+        "Niveau": 3,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Leiden strengere wetten tot een vreedzamere wereld of meer criminaliteit?"
+    },
+    {
+        "Bron": "openhartig",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Maak samen hardop een gedicht waarin jullie om de beurt een regel rijmend toevoegt."
+    },
+    {
+        "Bron": "openhartig",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Neem je telefoon en doe voor 1 minuut alsof je iemand die jullie beiden kennen aan de lijn hebt zonder zijn/haar naam te noemen. Weet je partner wie je belt?"
+    },
+    {
+        "Bron": "openhartig",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Er wordt een standbeeld van je gemaakt. Laat zien hoe die er dan uitziet door zelf in die positie te staan. Je partner mag de standbeeld een naam geven."
+    },
+    {
+        "Bron": "openhartig",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Leg iets tussen jou voorhoofd en die van je partner. Loop een rondje zonder het te laten vallen. Kunnen jullie ook zo samen knielen?"
+    },
+    {
+        "Bron": "openhartig",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Loop de kamer uit en kom terug als iemand die jullie beiden kennen. Kan je partner raden wie jij nadoet?"
+    },
+    {
+        "Bron": "openhartig",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Pak elkaars pols vast en voel met de vingertoppen de hartslag van de ander. Zodra je elkaars hartritme goed voelt, vergelijk je de hartslagen. Wat valt jullie op?"
+    },
+    {
+        "Bron": "openhartig",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Maak samen een leuke drum lied door beiden ritische geluiden te maken. Wissel ritme en/of het volume af. "
+    },
+    {
+        "Bron": "openhartig",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Kijk je partner recht in de ogen. Wie kan dit het langst volhouden zonder te lachen?"
+    },
+    {
+        "Bron": "openhartig",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Pak je portemennee/sleutelbos en vertel waarom wat erin of eraan zit?"
+    },
+    {
+        "Bron": "openhartig",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Neem een lichaamshouding aan of maakt een beweging die jij wel kunt uitvoeren en waarvan je denkt dat je partner het niet kan."
+    },
+    {
+        "Bron": "openhartig",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Je partner moet voor jou een orgineel cadeau verzinnen. Zou je dit cadeau ook echt willen hebben?"
+    },
+    {
+        "Bron": "openhartig",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Vraag je partner waar hij/zij door jou 1 minuut lang gemasseerd wilt worden. Ga je gang."
+    },
+    {
+        "Bron": "openhartig",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Laat een van je meest dierbare voorwerpen zien en vertel waarom het zo dierbaar is."
+    },
+    {
+        "Bron": "openhartig",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Sluit je ogen en vertel zo gedetailleerd mogelijk wat je partner aan kleding draagt op dit moment."
+    },
+    {
+        "Bron": "openhartig",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": 112,
+        "Reeks": null,
+        "Vraag": "Je partner mag je een blinddoek omdoen. Jij krijgt een voorwerp in handen, kan je al voelend raden wat het is?"
+    },
+    {
+        "Bron": "",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": "",
+        "Reeks": null,
+        "Vraag": "Doe 10 push-ups in minder dan een minuut"
+    },
+    {
+        "Bron": "",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Doe een handstand, of probeer het"
+    },
+    {
+        "Bron": "",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Durf jij je laatste leugen te vertellen?"
+    },
+    {
+        "Bron": "",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Durf jij een lepel sambal op te eten?"
+    },
+    {
+        "Bron": "",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Durf jij je arm in een volle prullenbak te steken?"
+    },
+    {
+        "Bron": "",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Praat als Donald Duck "
+    },
+    {
+        "Bron": "",
+        "Genre": "opdracht",
+        "Niveau": 1,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Zwem op het droge"
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Ik geniet in mijn sociale contacten het meest van..."
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: als ik iets doe, vind ik het belangrijk dat..."
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Voor welke doelgroep zou jij je het liefst inzetten?"
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: k breng anderen in beweging door..."
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Hoe deel jij je overtuiging met anderen?"
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat heb jij geleerd en breng je graag aan anderen over?"
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: ik voel me ergens snel thuis wanneer..."
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: ik wind me op over..."
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: ik ervaar kritiek als opbouwend als..."
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: als ik het leven even niet meer zie zitten praak ik met..."
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: ik vind het moeilijk om te gaan met..."
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: mijn rol in een team beschrijf ik als..."
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: vrijheid betekent voor mij..."
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: de beste manier om een conflichtsituatie op te lossen vind ik..."
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: ik werk het liefst samen met mensen die..."
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: een leuke manier om gastvrij te zijn vind ik..."
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: ik waardeer mensen die..."
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: een eigenschap die ik graag verder zou willen ontwikkelen is..."
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: ik voel me gelukkig als ik..."
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat vieren we op pinkster?"
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat vieren we op Kerst?"
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: liefde betekent voor mij..."
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wie of wat bepaalt mede jouw keuzes?"
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat zou je kunnen doen voor iemand die rouwt?"
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: als ik iets kon doen om de wereld te verbeteren, zou ik..."
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: hoop betekent voor mij..."
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Wat maakt jouw leven zinvol?"
+    },
+    {
+        "Bron": "kaarten op tafel",
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Vul aan: een doel waar ik dit jaar voor ga is..."
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "De mijnenspel: een van jullie krijg een blinddoek om, kan de ander hem/haar met enkel woorden rondt obstakels (reeds aanwezig of zelf gelegd) loodsen. "
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Helpende hand: jullie houden beiden een hand achter de rug. Help elkaar vervolgens om allerlei alledaagse dingen te doen (een knoop maken, broodsmeren etc.)."
+    },
+    {
+        "Bron": null,
+        "Genre": "opdracht",
+        "Niveau": 2,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Emotiespel: schrijf op een aantal papiertjes minimaal 10 emoties, doen ze in een box en pak één zonder te kijken. Alleen jij mag het zien en de ander moet raden wat het is. Doe hem voor zonder woorden. Degene die het vaakst de emotie van de ander goed raadt wint."
+    },
+    {
+        "Bron": null,
+        "Genre": null,
+        "Niveau": null,
+        "Nummer": null,
+        "Reeks": null,
+        "Vraag": "Waarheid en leugen: vertel een waarheid en een leugen over jezelf. De ander moet raden welke waar is en welke een leugen."
+    }
+]
