@@ -1,0 +1,272 @@
+[
+    {
+        "commentaar_neg": null,
+        "commentaar_pos": null,
+        "gewicht": 1.5,
+        "lading": 1,
+        "link1": null,
+        "soort": "Lichamelijk contact",
+        "vraag": "Niets zo leuk als een avond tegen elkaar aan op de bank."
+    },
+    {
+        "commentaar_neg": null,
+        "commentaar_pos": null,
+        "gewicht": 1,
+        "lading": 0,
+        "link1": null,
+        "soort": "Lichamelijk contact",
+        "vraag": "Ik ben meestal degene die de eerste stap zet om te knuffelen etc."
+    },
+    {
+        "commentaar_neg": null,
+        "commentaar_pos": null,
+        "gewicht": 1,
+        "lading": 1,
+        "link1": null,
+        "soort": "Cadeautjes",
+        "vraag": "Als mijn partner jarig is doe ik moeite om het leukste cadeau te kopen."
+    },
+    {
+        "commentaar_neg": null,
+        "commentaar_pos": null,
+        "gewicht": 1,
+        "lading": 0,
+        "link1": null,
+        "soort": "Cadeautjes",
+        "vraag": "Ik verlang er eigenlijk wel naar dat mijn partner wat meer moeite doet om mij te verrassen met leuke dingen of cadeaus."
+    },
+    {
+        "commentaar_neg": "Je ervaart niet dat je partner in je gelooft. Dat is vrij lastig. Zou je het met je partner kunnen bespreken?  Herken hij/zij het? En hoe zou je partner je het gevoel van waardering kunnen geven?",
+        "commentaar_pos": null,
+        "gewicht": 2,
+        "lading": 1,
+        "link1": null,
+        "soort": "Positieve woorden",
+        "vraag": "Ik weet en ervaar dat mijn  partner in mij gelooft."
+    },
+    {
+        "commentaar_neg": "Je vindt het lastig je partner te complimenteren. Zegt dit iets over jou liefdestalen? Of iets over hoe goed het gaat met je relatie? Of nog wat anders?",
+        "commentaar_pos": null,
+        "gewicht": 1,
+        "lading": 0,
+        "link1": null,
+        "soort": "Positieve woorden",
+        "vraag": "Ik vind het lastig mijn partner te complimenteren."
+    },
+    {
+        "commentaar_neg": "Jij vindt het niet persé geweldig je partner te verzorgen. Zou je kunnen aangeven hoe je dan wel je liefde laat zien? Ervaar je partner die liefde?",
+        "commentaar_pos": null,
+        "gewicht": 1,
+        "lading": 1,
+        "link1": null,
+        "soort": "Dienen",
+        "vraag": "Als mijn partner moe is vind ik het echt heerlijk hem/haar te verzorgen."
+    },
+    {
+        "commentaar_neg": null,
+        "commentaar_pos": null,
+        "gewicht": 2,
+        "lading": 0,
+        "link1": null,
+        "soort": "Dienen",
+        "vraag": "Ik vind dat mijn partner best wat meer zouden kunnen doen voor mij."
+    },
+    {
+        "commentaar_neg": null,
+        "commentaar_pos": null,
+        "gewicht": 1.5,
+        "lading": 1,
+        "link1": null,
+        "soort": "Samen zijn",
+        "vraag": "Ik vind het belangrijk om er te zijn voor mijn partner."
+    },
+    {
+        "commentaar_neg": null,
+        "commentaar_pos": null,
+        "gewicht": 2,
+        "lading": 0,
+        "link1": null,
+        "soort": "Samen zijn",
+        "vraag": "Ik heb het gevoel dat mijn partner niet echt naar me luistert."
+    },
+    {
+        "commentaar_neg": "Het is nooit een goeie teken als jij je gevangen voelt in een relatie. Het is wel goed om hierbij na te gaan waar het door komt. Ligt het bij jou? Bindingangst bijvoorbeeld? Of onvermogen om te commiten? Of ben je gewoon niet eerlijk genoeg over je gevoel met het gevolg dat je niet echt jezelf bent? Het zal je opvallen dat wij het tot nu toe vooral bij jou houden. Dat doen we bewust, want uiteindelijk ben jij degene die in 99 procent van de gevallen zelf sleutel in handen heeft. Toon moed en bevrij jezelf door eerlijk te zijn naar jezelf en ander.",
+        "commentaar_pos": "Jij voel je niet gevangen. Top! Zijn er momenten waarop je het wel voelt? Waarom?",
+        "gewicht": 2.5,
+        "lading": 0,
+        "link1": null,
+        "soort": "Basisveiligheid",
+        "vraag": "Ik voel mij wel eens gevangen in mijn relatie. "
+    },
+    {
+        "commentaar_neg": "Je partner gaat heel anders dan jij om met geld. Dit hoef natuurlijk niet een probleem te zijn, maar denk er wel goed over na. Geld is de nummer twee oorzaak voor relaties die kapot gaan. Misschien is het wel goed om alvast te denken over of je wil spaar? Hoe je wil leven? ",
+        "commentaar_pos": "Jij kan je wel vinden in je partners gebruik van geld. Dit telt zeker in de voordeel van je relatie omdat de nummer twee oorzaak van echtscheidingen komt door financiele ruzies.",
+        "gewicht": 2,
+        "lading": 0,
+        "link1": null,
+        "soort": "Basisveiligheid",
+        "vraag": "Wij gaan heel verschillend om met geld."
+    },
+    {
+        "commentaar_neg": "Jij bent wel eens bang voor je partner. Dit is echt niet oke. Ons advies: bespreek dit met je partner en als er niet snel verandering komen, zoek zo snel mogelijk hulp.",
+        "commentaar_pos": "Jij was nog niet bang voor je partner. Gelukkig. Als het ooit wel zo is, zoek snel hulp!",
+        "gewicht": 3,
+        "lading": 0,
+        "link1": null,
+        "soort": "Basisveiligheid",
+        "vraag": "Ik ben wel eens bang voor mijn partner."
+    },
+    {
+        "commentaar_neg": null,
+        "commentaar_pos": null,
+        "gewicht": 3,
+        "lading": 0,
+        "link1": null,
+        "soort": "Basisveiligheid",
+        "vraag": "Hebben we ruzie? Niet te lang bij stil staan, want dat maakt het alleen maar erger."
+    },
+    {
+        "commentaar_neg": "Je gaf aan dat je geluk voor een groot gedeelte afhangt van je partner. Dit is zorgwekkend. Hoewel een relatie een partnerschap is, moet elke partner zijn eigen individualiteit kunnen behouden. Het hebben van eigen interesses en passies, kunnen genieten van eigen tijd en tijd doorbrengen met eigen vrienden en familie helpt hierbij enorm. Een gezonde relatie fungeert als een broedplaats voor persoonlijke groei, en je eigen individuele geluk mag nooit alleen afhangen van de status van je relatie met je partner. Zodra je dag, week, maand en algeheel geluk afhankelijk zijn van het succes van je relatie, ben je nu mede-afhankelijk van je partner en zullen gevoelens van jaloezie en onzekerheid naar boven komen.",
+        "commentaar_pos": null,
+        "gewicht": 2,
+        "lading": 0,
+        "link1": null,
+        "soort": "Basisveiligheid",
+        "vraag": "Mijn geluk is in sterk mate afhankelijk van mijn partner."
+    },
+    {
+        "commentaar_neg": null,
+        "commentaar_pos": null,
+        "gewicht": 2.5,
+        "lading": 0,
+        "link1": null,
+        "soort": "Basisveiligheid",
+        "vraag": "Mijn partner gaat wel eens over mijn grenzen op seksuele vlak."
+    },
+    {
+        "commentaar_neg": null,
+        "commentaar_pos": null,
+        "gewicht": 2,
+        "lading": 0,
+        "link1": null,
+        "soort": "Basisveiligheid",
+        "vraag": "We zitten volgens mij niet helemaal in balans qua geven en nemen."
+    },
+    {
+        "commentaar_neg": null,
+        "commentaar_pos": null,
+        "gewicht": 2.5,
+        "lading": 0,
+        "link1": null,
+        "soort": "Basisveiligheid",
+        "vraag": "Mijn partner erkent eigenlijk bijna nooit zijn fouten en tekortkomingen."
+    },
+    {
+        "commentaar_neg": "Jullie praten niet echt veel over de diepere dingen van het leven. Hier liggen nog kansen voor je. Onderzoek heeft bewezen dat er een positieve relatie is tussen geluk en gesprekken over de diepere dingen van het leven. Wil jij dus een gevoel van geluk in je relatie en bovendien groeien in je verbintenis met elkaar: durf het eens aan om vaker over de diepere dingen te praten. En we kunnen ons voorstellen dat je nu zegt: ja maar hoe dan? Ons tip: gebruik de vragen functie van deze app, stel de level naar de maximale en geniet van de diepe vragen.",
+        "commentaar_pos": "Jullie hebben wel eens diepe gesprekken. Ik heb goed nieuws voor je, onderzoek heeft bewezen hoe vaker mensen over de diepere dingen van het leven praten des te gelukkiger ze zijn. Ga dus vooral zo door! En houw het vol, een van de grote gevaren van relaties die al een aantal jaar duur is dat je langzamerhand denk elkaar te kennen. Maar vergeet nooit: de ander blijft altijd een vreemdeling, want hij/zij verander constant. Ons tip, gebruik de vragen functie in deze app, zet hem op level 3 en verdiep je gesprekken.",
+        "gewicht": 2.5,
+        "lading": 1,
+        "link1": "https://www.psychologytoday.com/us/blog/the-secret-lives-introverts/201706/why-we-need-have-deeper-conversations",
+        "soort": "Diepere lagen",
+        "vraag": "Wij hebben wel eens uitgebreid gedeeld hoe we denken over God, religie en de zin van het leven."
+    },
+    {
+        "commentaar_neg": "Je antwoord kan natuurlijk heel veel redenen hebben. Misschien ben je nog maar net begonnen aan de relatie, in dat geval zou ik zeggen: het kan wijs zijn om langzaam te gaan, maar wacht niet al te lang. Maar hebt je al best een poosje een relatie en praten jullie niet over deze dingen dan is onze advies: begin ermee. Veel relaties gaan kapot omdat er van te voren niet goed doorgesproken is over hoe om bijvoorbeeld met geld om te gaan, of omdat er totaal verschillende verwachtingen zijn rond wie wat doen? Neem de bijvoorbeeld de vraag: wie maakt de wc's schoon. Hebben jullie het al daarover gehad? En hoeveel willen jullie eigenlijk altijd op de spaarrekening hebben? En nog zo een vraag: wie betaalt wat in de toekomst? Wist je dat geld de nummer 2 oorzaak is voor echtscheidingen?",
+        "commentaar_pos": null,
+        "gewicht": 2.5,
+        "lading": 1,
+        "link1": "https://www.marriage.com/advice/divorce/10-most-common-reasons-for-divorce/",
+        "soort": "Diepere lagen",
+        "vraag": "Mijn partner weet hoe ik wil omgaan met geld, taakverdeling (in huis) en andere praktische zaken."
+    },
+    {
+        "commentaar_neg": "Je vind de andersheid van je partner lastig. Join the club zouden wij zeggen. Een van de lastigste dingen van een relatie is leren leven met iemand die telkens weer zo anders is dan jij bent. Het is een uitdaging, leer het te waarderen en jullie zullen samen veel completer zijn dan alleen.",
+        "commentaar_pos": "Je vind de andersheid van je partner een aanvulling. Dat zal nog wel eens een uitdaging worden, maar vergeet nooit: schoonheid ontstaat waar verschil harmonieus samengaat.",
+        "gewicht": 2.5,
+        "lading": 1,
+        "link1": null,
+        "soort": "Diepere lagen",
+        "vraag": "Ja, het is wel eens lastig dat mijn partner anders is. Toch wil ik de verschillen niet missen."
+    },
+    {
+        "commentaar_neg": "Je partner wil niet een vragenlijst als deze invullen? Weet je waarom? Onzekerheid? Aangevallen voelen? Geen interesse? ",
+        "commentaar_pos": "Dat je partner ook deze vragenlijst wil invullen is een goed teken. Het laat zien dat jullie aan jullie relatie werken en erop reflecteren. ",
+        "gewicht": 2.5,
+        "lading": 1,
+        "link1": null,
+        "soort": "Diepere lagen",
+        "vraag": "Mijn partner wil deze vragenlijst invullen en ontdekken hoe we kunnen groeien in onze relatie."
+    },
+    {
+        "commentaar_neg": "Je bent het niet eens met de stelling dat liefde een keus is en dat gevoel volgt op doen. We begrijpen helemaal dat je het hier niet mee eens bent, deze stelling gaat namelijk de script van elke romantische film. Toch klopt de stelling wel. Dat wat wij vaak liefde noemt, het gevoel van een kloppende hart en weke knieeen, is niets anders dan een cocktail van hormonen. Die hormonen vertrekken op een gegeven moment en wat dan overblijft is echt. Liefde is niet een gevoel, het is daden, het is een keuze die we maken. De grote vraag is en biljft: kies jij ervoor om daden van liefde te doen naar je partner. Doen je dit oprecht en met overgave zullen jullie liefde groeien.",
+        "commentaar_pos": "Jij bent het eens met de stelling dat liefde ene keus is. Natuurlijk is deze stelling te zwart wit en is liefde ook een gevoel. Het is geen goed teken als je nooit wat voelt bij je partner. En toch hebt je wijs gekozen. Liefde is een keus die je dagelijks maakt. Het is een keus om het goede te zien in je partner en het kwade te bedekken. Het is een keus om open te zijn ook als je geen zin hebt. Interessant zou nog zijn om met elkaar vragen te bespreken als: hebt je momenten meegemaakt waairn je helemaal niets meer voor me voelde? Hoe was dat? Hoe ging je ermee om? En hoe denk jij de keus te kunnen volhouden als alles tegenzit? Wat zijn de grenzen?",
+        "gewicht": 3,
+        "lading": 1,
+        "link1": "https://www.psychologytoday.com/intl/blog/the-angry-therapist/201611/how-do-you-know-its-love",
+        "soort": "Diepere lagen",
+        "vraag": "Ik vind dat liefde een keus is, als je dingen van liefde doet volgt het gevoel wel."
+    },
+    {
+        "commentaar_neg": "Je gaf aan je partner niet (veel) te stimuleren om op te trekken met familie en vrienden. Het zou goed zijn om met elkaar eens een gesprek hierover te voeren met vragen als: waarom is dit zo? Wordt familie en vrienden als bedreigend ervaren? Of als competitie? En als dat zo is, waar komt dat vandaan? Overigens is het echt een aarader om je partner te stimuleren zijn familie en vrienden te blijven bezoeken. Hoe sterker hij/zij staat, des te meer kan hij/zij je liefde geven!",
+        "commentaar_pos": "Jij stimuleert je partner tijd te spanderen aan familie en vrienden. Das echt supper! Je ervaart hun namelijk niet als competitie of bedreiging, das een goed teken! Je zult ontdekken: hoe meer zielen hoe meer vreugde.",
+        "gewicht": 2,
+        "lading": 1,
+        "link1": null,
+        "soort": "Familie en vrienden",
+        "vraag": "Ik vind het fijn als mijn partner tijd besteed aan familie en vrienden."
+    },
+    {
+        "commentaar_neg": "Je familiie en vrienden kennen je en hebben meestal het goede met je voor. Als zij negatief over je relatie is het wel goed om jezelf af te vragen waarom dit zo is? Zien zij iets wat jij weiger te zien? Durf jij hun eeriljk te vragen waarom zij een probleem hebben met je partner?",
+        "commentaar_pos": "Je familie en vrienden zijn positief over je partner. Dit is echt supper want dit zijn meestal mensen die het goed met je voor heeft en dingen wat scherper ziet dan jij, liefde maakt immers blind.",
+        "gewicht": 2.5,
+        "lading": 1,
+        "link1": null,
+        "soort": "Familie en vrienden",
+        "vraag": "Mijn vrienden en familie zijn positief over mijn partner."
+    },
+    {
+        "commentaar_neg": "Onderzoek heeft bewezen dat mannen en vrouwen die maar een seksuele partner had gelukkiger zijn in hun relatie en dat die daarom ook meer toekomstbestig is. Jij gaf aan al meerdere keren met iemand naar bed gegaan te zijn. Dit kan een indicatie zijn van moeite om jezelf te binden? Of onzekerheid? Of nog wat anders? Ieder geval is het goed om na te denken over de vraag wat jij met deze gegeven wil.",
+        "commentaar_pos": "Je partner is/zal de eerste zijn met wie je seks heeft. Dit is echt een pluspunt! Anders dan de media doet denken heeft onderzoek bewezen dat  meerdere seksuele partners de kans op echtscheiding verhoogt. ",
+        "gewicht": 1.5,
+        "lading": 1,
+        "link1": null,
+        "soort": "Verleden",
+        "vraag": "Mijn partner is mijn eerste (toekomstige) bedpartner."
+    },
+    {
+        "commentaar_neg": "Je gaf aan al wat negatieve dingen meegemaakt te hebben in vorige relaties. Stoer dat je dan nu durft opnieuw een relatie aan te gaan! Het is wel goed om je ervan bewust te zijn dat negatieve ervaringen in het verleden bijna altijd invloed op je nieuwe relaties. De beste advies die wij kunnen geven: praat met je partner over wat je meegemaakt hebt, wat het met je gedaan heeft en nu nog doet. Vraag hem/haar je erop te wijzen wanneer je je laat leiden door het verleden.",
+        "commentaar_pos": "Je geeft bijna geen negatieve ervaringen met voorgaande relaties te hebben. Das echt supper en zeker een plus punt in je huidige relatie. Het is namelijk een feit dat je altijd het verleden mee neemt de toekomst in. Bescherm daarom de gezonde relaties die je hebt!",
+        "gewicht": 2,
+        "lading": 1,
+        "link1": null,
+        "soort": "Verleden",
+        "vraag": "Ik heb bijna geen negatieve ervaringen met relaties."
+    },
+    {
+        "commentaar_neg": "Je geeft aan niet zeker te weten of je partner niet ooit zal vreemdgaan. Dit is zorgwekkend omdat het iets zegt over de vertrouwen die jullie onderling hebben. Blijkbaar vertrouw je niet echt je partner. De gevolgen hiervan kan heel schadelijk zijn: je controleert je partner, je durf niet jezelf echt bloot te geven en je voel je niet echt gerespecteerd in de relatie. Ons advies hierin is: maak je angst hierin bespreekbaar met je partner. Is hij niet bereid erover te praten of iets te beloven en is het wel belangrijk voor je: neem afstand voordat je beschadigd wordt. Als laatste vergeet niet wat iemand ooit zei: IK VERTROUW JE IS EEN BETER COMPLIMENT DAN IK HOU VAN JE, OMDAT JE MISSCHIEN NIET ALTIJD DEGENE VERTROUWT VAN WIE JE HOUDT, MAAR JE ALTIJD VAN DEGENE HOUDT DIE JE VERTROUWEN.",
+        "commentaar_pos": "Je vertrouwt parner en zegt dat hij/zij waarschijnlijk niet zal vreemdgaan. Mooi dat er zoveel vertrouwen is. Gebruik die vetrouwen als basis om jezelf op een gezonde manier steeds meer bloot te geven.",
+        "gewicht": 2,
+        "lading": 1,
+        "link1": null,
+        "soort": "Vertrouwen",
+        "vraag": "Als ik ooit met iemand anders zoen zal ik het binnen een dag opbiechten."
+    },
+    {
+        "commentaar_neg": "Volgens jou zou je partner geen goede ouder zijn. Hier kan je natuurlijk duizend en een redenen voor hebben. Belangrijk is om na te gaan waarom jij dit denkt. Is het omdat hij/zij te egoistisch is? Of is het onvermogen? En als jij geen kind aan je partner zouden toevertrouwen, waarom vertrouw je dan eigenlijk jezelf aan hem/haar toe?",
+        "commentaar_pos": "Volgens jou zal je partner de beste ouder ooit zijn. Tof! Dit zegt heel veel over je vertrouwen in je partner. Als je stiekem hem/haar egocentrich had gevonden had je dit bijvoorbeeld niet gezegd. Je zou dit onderwerp verder met elkaar kunnen uitdiepen met vragen als: 'welke waarden zou je mee willen geven?' of 'welke eigenschap van jezelf zou je niet in je kid willen terugzien?' ",
+        "gewicht": 2,
+        "lading": 1,
+        "link1": null,
+        "soort": "Vertrouwen",
+        "vraag": "Mijn  partner is de beste (toekomstige) ouder ooit!"
+    },
+    {
+        "commentaar_neg": null,
+        "commentaar_pos": null,
+        "gewicht": 2.5,
+        "lading": 1,
+        "link1": null,
+        "soort": "Vertrouwen",
+        "vraag": "Mijn partner komt altijd zijn/haar afspraken na."
+    }
+]
